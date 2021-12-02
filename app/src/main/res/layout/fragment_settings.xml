@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.Settings">
+
+    <TextView
+        android:id="@+id/theme"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="?attr/selectableItemBackground"
+        android:padding="10dp"
+        android:text="@string/theme"
+        android:textColor="?attr/colorOnSecondary"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toStartOf="@id/themeSwitch"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/themeSwitch"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginEnd="10dp"
+        android:padding="10dp"
+        android:background="?attr/selectableItemBackground"
+        android:src="@drawable/ic_theme"
+        app:layout_constraintBottom_toBottomOf="@id/theme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/theme" />
+
+    <TextView
+        android:id="@+id/feedback"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:text="@string/feedback"
+        android:background="?attr/selectableItemBackground"
+        android:textColor="?attr/colorOnSecondary"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/theme" />
+
+    <TextView
+        android:id="@+id/about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        tools:text="About"
+        android:textColor="?attr/colorOnSecondary"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/shareApp" />
+
+    <TextView
+        android:id="@+id/shareApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/share_app"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:textSize="18sp"
+        android:textColor="?attr/colorOnSecondary"
+        app:layout_constraintTop_toBottomOf="@id/feedback"
+        app:layout_constraintStart_toStartOf="parent"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        />
+<!--    <com.google.android.material.textfield.TextInputLayout-->
+<!--        android:id="@+id/input"-->
+<!--        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_margin="10dp"-->
+<!--        android:focusable="true"-->
+<!--        app:boxStrokeColor="?attr/colorPrimary">-->
+
+<!--        <com.google.android.material.textview.MaterialTextView-->
+<!--            android:id="@+id/editPlaylistName"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:inputType="text"-->
+<!--            android:focusable="true"-->
+<!--            android:layout_margin="10dp"-->
+<!--            android:selectAllOnFocus="true"-->
+<!--            android:text="Playlist Name1"-->
+<!--            android:maxLength="40"-->
+<!--            android:singleLine="true" />-->
+<!--    </com.google.android.material.textfield.TextInputLayout>-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

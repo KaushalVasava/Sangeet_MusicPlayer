@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+<!--    <color name="teal_200">#FF03DAC5</color>-->
+<!--    <color name="teal_700">#FF018786</color>-->
+
+    <color name="red_200">#F8948D</color>
+    <color name="red_500">#FC1D0D</color>
+    <color name="red_700">#DC000B</color>
+<!--    <color name="secondary_red">#0decfc</color>-->
+<!--    <color name="secondary_variant_red">#00a9c1</color>-->
+
+    <color name="pink_200">#F574DB</color>
+    <color name="pink_500">#EE00CD</color>
+    <color name="pink_700">#860495</color>
+<!--    <color name="secondary_pink">#00ee20</color>-->
+<!--    <color name="secondary_variant_pink">#00c602</color>-->
+
+    <color name="green_200">#C0FCB1</color>
+    <color name="green_500">#24EE02</color>
+    <color name="green_700">#168F36</color>
+<!--    <color name="secondary_green">#cb02ee</color>-->
+<!--    <color name="secondary_variant_green">#9300e0</color>-->
+
+    <color name="blue_200">#9ea9fc</color>
+    <color name="blue_500">#094CF5</color>
+    <color name="blue_700">#0038dd</color>
+<!--    <color name="yellow_200">#F7F893</color>-->
+<!--    <color name="yellow_500">#FCFC0D</color>-->
+<!--    <color name="yellow_700">#F29900</color>-->
+<!--    <color name="secondary_yellow">#0d0dfc</color>-->
+<!--    <color name="secondary_variant_yellow">#966dff</color>-->
+</resources>

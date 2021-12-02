@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.lahsuak.sangeetmusicplayer.fragments.HomeFragment"
+        android:label="Sangeet"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_homeFragment_to_playerFragment"
+            app:destination="@id/playerFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" >
+        </action>
+        <action
+            android:id="@+id/action_homeFragment_to_favoriteFragment"
+            app:destination="@id/favoriteFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+        <action
+            android:id="@+id/action_homeFragment_to_playListFragment"
+            app:destination="@id/playListFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+        <action
+            android:id="@+id/action_homeFragment_to_settings"
+            app:destination="@id/settings"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right"/>
+        <action
+            android:id="@+id/action_homeFragment_to_historyFragment"
+            app:destination="@id/historyFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/playerFragment"
+        android:name="com.lahsuak.sangeetmusicplayer.fragments.PlayerFragment"
+        android:label="Now Playing"
+        tools:layout="@layout/fragment_player">
+        <argument
+            android:name="position"
+            app:argType="integer" />
+        <argument
+            android:name="songId"
+            app:argType="integer" />
+        <argument
+            android:name="playlistPos"
+            app:argType="integer" />
+    </fragment>
+    <fragment
+        android:id="@+id/favoriteFragment"
+        android:name="com.lahsuak.sangeetmusicplayer.fragments.FavoriteFragment"
+        android:label="Favorites"
+        tools:layout="@layout/fragment_favorite">
+        <action
+            android:id="@+id/action_favoriteFragment_to_playerFragment"
+            app:destination="@id/playerFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" >
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/playListFragment"
+        android:name="com.lahsuak.sangeetmusicplayer.fragments.PlayListFragment"
+        android:label="Playlists"
+        tools:layout="@layout/fragment_playlist" >
+        <action
+            android:id="@+id/action_playListFragment_to_playlistDetails"
+            app:destination="@id/playlistDetails"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/playlistDetails"
+        android:name="com.lahsuak.sangeetmusicplayer.fragments.PlaylistDetails"
+        android:label="Playlist Details"
+        tools:layout="@layout/fragment_playlist_details">
+        <action
+            android:id="@+id/action_playlistDetails_to_playerFragment"
+            app:destination="@id/playerFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+        <action
+            android:id="@+id/action_playlistDetails_to_selectionPlaylist"
+            app:destination="@id/selectionPlaylist"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right"/>
+        <argument android:name="playlistPosition"
+            app:argType="integer"/>
+    </fragment>
+    <fragment
+        android:id="@+id/selectionPlaylist"
+        android:name="com.lahsuak.sangeetmusicplayer.fragments.SelectionPlaylist"
+        android:label="Selection Playlist"
+        tools:layout="@layout/fragment_selection_playlist" />
+    <fragment
+        android:id="@+id/settings"
+        android:name="com.lahsuak.sangeetmusicplayer.fragments.Settings"
+        android:label="Settings"
+        tools:layout="@layout/fragment_settings" >
+        <action
+            android:id="@+id/action_allSettings_to_feedbackFragment"
+            app:destination="@id/feedbackFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/feedbackFragment"
+        android:name="com.lahsuak.sangeetmusicplayer.fragments.FeedbackFragment"
+        android:label="Feedback"
+        tools:layout="@layout/fragment_feedback" />
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.lahsuak.sangeetmusicplayer.fragments.HistoryFragment"
+        android:label="Recent"
+        tools:layout="@layout/fragment_history" >
+        <action
+            android:id="@+id/action_historyFragment_to_playerFragment"
+            app:destination="@id/playerFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right"/>
+    </fragment>
+</navigation>

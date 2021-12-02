@@ -1,0 +1,106 @@
+
+ <resources xmlns:tools="http://schemas.android.com/tools">
+    <!--Splash screen theme-->
+    <style name="SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_image_background</item>
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="background">@color/purple_500</item>
+    </style>
+
+    <style name="Fonts">
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!--Shaped Image View for Rounded corner-->
+    <style name="Style.App.circleImageView" parent="">
+        <item name="shapeAppearance">@style/ShapeAppearanceOverlay.App.circleImageView</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.circleImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10%</item>
+    </style>
+
+     <item name="rippleColor" type="color"/>
+     <!-- Base application theme. -->
+    <style name="Theme.MusicPlayer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="rippleColor">#503700B3</item>
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/purple_200</item>
+        <item name="colorSecondaryVariant">@color/purple_200</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorControlHighlight">@color/purple_200</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorOnPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.MusicPlayerRed" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="rippleColor">#50DC000B</item>
+        <item name="colorPrimary">@color/red_200</item>
+        <item name="colorPrimaryVariant">@color/red_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/red_200</item>
+        <item name="colorSecondaryVariant">@color/red_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorControlHighlight">@color/red_500</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorOnPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.MusicPlayerPink" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="rippleColor">#50860495</item>
+        <item name="colorPrimary">@color/pink_200</item>
+        <item name="colorPrimaryVariant">@color/pink_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/pink_200</item>
+        <item name="colorSecondaryVariant">@color/pink_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorControlHighlight">@color/pink_500</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorOnPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.MusicPlayerGreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="rippleColor">#50168F36</item>
+        <item name="colorPrimary">@color/green_200</item>
+        <item name="colorPrimaryVariant">@color/green_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/green_200</item>
+        <item name="colorSecondaryVariant">@color/green_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorControlHighlight">@color/green_500</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorOnPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.MusicPlayerBlue" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="rippleColor">#500038dd</item>
+        <item name="colorPrimary">@color/blue_200</item>
+        <item name="colorPrimaryVariant">@color/blue_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue_200</item>
+        <item name="colorSecondaryVariant">@color/blue_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorControlHighlight">@color/blue_200</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorOnPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
