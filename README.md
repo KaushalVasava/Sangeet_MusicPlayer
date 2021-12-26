@@ -14,10 +14,11 @@ Try it now Sangeet :)
 
 [![playstore_logo (1)](https://user-images.githubusercontent.com/49050597/144359511-fd4cc136-3d9f-45d5-8598-506a45f8d170.png)](https://play.google.com/store/apps/details?id=com.lasuak.musicplayer)
 
-![image1](https://user-images.githubusercontent.com/49050597/147363549-692b3b45-d144-4921-ab7d-0ff8a8a50d5f.jpeg)
-![image2](https://user-images.githubusercontent.com/49050597/147363551-31f643bb-8b3b-4982-917a-db11ed839979.jpeg)
-![image3](https://user-images.githubusercontent.com/49050597/147363553-18d6330c-2aeb-4ffe-98c9-9dbef3e15196.jpeg)
-![image4](https://user-images.githubusercontent.com/49050597/147363554-c4c0c067-acc6-4065-97f6-dc808381afbf.jpeg)
-![image5](https://user-images.githubusercontent.com/49050597/147363555-0e1fcd5a-57d5-46bb-8bfe-252f0a0cf20e.jpeg)
+
+![image1](https://user-images.githubusercontent.com/49050597/147405416-aaee78c4-610b-4159-a79c-2b99ab98c3b7.jpg)
+![image2](https://user-images.githubusercontent.com/49050597/147405415-1464951a-fd5d-476e-a4cb-299722581763.jpg)
+![image3](https://user-images.githubusercontent.com/49050597/147405417-3f6844ec-41a5-4881-a4ef-488bcfbf2a10.jpg)
+![image4](https://user-images.githubusercontent.com/49050597/147405419-266c06ec-d0ef-43ad-bcf6-e59866239db1.jpg)
+![image5](https://user-images.githubusercontent.com/49050597/147405418-3663bb86-50db-4963-bc0e-2a2dfd1515fb.jpg)
 
 Author : Kaushal Vasava
