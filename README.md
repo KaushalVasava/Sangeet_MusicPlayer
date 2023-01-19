@@ -1,5 +1,5 @@
 # Sangeet : Songs & MusicPlayer
-Sangeet is a new material design music player with lots of new features.
+Sangeet is a new material design music player with lots of new features. This app made using storage access and permission handling, data and view binding, navigation components, prefence datastore, flows, coroutines, Foreground service, Broadcast receiver, Shared preference, Dagger-Hilt for dependency Injection and MVVM architecture.
 
 Features: 
 + New Material design themes.
@@ -8,6 +8,24 @@ Features:
 + New sorting and filtering options like most played songs, adding time, etc.
 + Almost all audio formats supported.
 + New mute-unmute and sleep timer functionality.
+
+Following android topics you will learn : 
+- Navigation graph for navigation and data passing
+- Single activity design
+- Android storage access and its handling
+- DiffUtil in recyclerview
+- MVVM architecture
+- SharedPreference, Preference DataStore API
+- Alarm Manager
+- Broadcast receiver
+- Flows
+- Dependency Injection using Dagger-Hilt
+- View binding and dData binding
+- Content providers for sharing music file
+- Foreground service
+- How to use of Glide library for image loading
+- App themeing
+- App transalation
 
 Try it now Sangeet :)
 
@@ -19,4 +37,6 @@ Try it now Sangeet :)
 ![image2](https://user-images.githubusercontent.com/49050597/211183312-db5338e3-e91b-45bc-ac22-3745f43fa904.jpeg)
 
 Author : Kaushal Vasava
+
+Thank you 
 
