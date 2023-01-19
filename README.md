@@ -25,7 +25,7 @@ Following android topics you will learn :
 - Foreground service
 - How to use of Glide library for image loading
 - App themeing
-- App transalation
+- App Language transalation
 
 Try it now Sangeet :)
 
