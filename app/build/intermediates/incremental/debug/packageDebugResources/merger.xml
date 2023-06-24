@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res"><file name="fade_in" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\anim\fade_in.xml" qualifiers="" type="anim"/><file name="fade_out" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\anim\fade_out.xml" qualifiers="" type="anim"/><file name="slide_in_left" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\anim\slide_in_left.xml" qualifiers="" type="anim"/><file name="slide_in_right" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\anim\slide_in_right.xml" qualifiers="" type="anim"/><file name="slide_out_left" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\anim\slide_out_left.xml" qualifiers="" type="anim"/><file name="slide_out_right" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\anim\slide_out_right.xml" qualifiers="" type="anim"/><file name="top_bottom" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\anim\top_bottom.xml" qualifiers="" type="anim"/><file name="blue_theme" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\blue_theme.xml" qualifiers="" type="drawable"/><file name="green_theme" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\green_theme.xml" qualifiers="" type="drawable"/><file name="ic_add" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_add.xml" qualifiers="" type="drawable"/><file name="ic_arrow_down" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_arrow_down.xml" qualifiers="" type="drawable"/><file name="ic_delete" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_delete.xml" qualifiers="" type="drawable"/><file name="ic_done" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_done.xml" qualifiers="" type="drawable"/><file name="ic_equalizer" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_equalizer.xml" qualifiers="" type="drawable"/><file name="ic_favorite" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_favorite.xml" qualifiers="" type="drawable"/><file name="ic_favorite_empty" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_favorite_empty.xml" qualifiers="" type="drawable"/><file name="ic_feedback" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_feedback.xml" qualifiers="" type="drawable"/><file name="ic_grid_view" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_grid_view.xml" qualifiers="" type="drawable"/><file name="ic_launcher2_background" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_launcher2_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher2_foreground" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_launcher2_foreground.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="ic_list_view" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_list_view.xml" qualifiers="" type="drawable"/><file name="ic_more" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_more.xml" qualifiers="" type="drawable"/><file name="ic_music" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_music.xml" qualifiers="" type="drawable"/><file name="ic_next" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_next.xml" qualifiers="" type="drawable"/><file name="ic_pause" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_pause.xml" qualifiers="" type="drawable"/><file name="ic_pause_notification" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_pause_notification.xml" qualifiers="" type="drawable"/><file name="ic_play" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_play.xml" qualifiers="" type="drawable"/><file name="ic_playlist" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_playlist.xml" qualifiers="" type="drawable"/><file name="ic_play_notification" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_play_notification.xml" qualifiers="" type="drawable"/><file name="ic_previous" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_previous.xml" qualifiers="" type="drawable"/><file name="ic_recent_history" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_recent_history.xml" qualifiers="" type="drawable"/><file name="ic_repeat" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_repeat.xml" qualifiers="" type="drawable"/><file name="ic_repeat_one" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_repeat_one.xml" qualifiers="" type="drawable"/><file name="ic_search" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_search.xml" qualifiers="" type="drawable"/><file name="ic_select_all" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_select_all.xml" qualifiers="" type="drawable"/><file name="ic_select_all_off" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_select_all_off.xml" qualifiers="" type="drawable"/><file name="ic_settings" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_settings.xml" qualifiers="" type="drawable"/><file name="ic_share" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_share.xml" qualifiers="" type="drawable"/><file name="ic_shuffle" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_shuffle.xml" qualifiers="" type="drawable"/><file name="ic_sort" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_sort.xml" qualifiers="" type="drawable"/><file name="ic_theme" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_theme.xml" qualifiers="" type="drawable"/><file name="ic_timer" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_timer.xml" qualifiers="" type="drawable"/><file name="ic_volume_mute" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_volume_mute.xml" qualifiers="" type="drawable"/><file name="ic_volume_up" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ic_volume_up.xml" qualifiers="" type="drawable"/><file name="image_background" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\image_background.xml" qualifiers="" type="drawable"/><file name="line" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\line.xml" qualifiers="" type="drawable"/><file name="line_drawable" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\line_drawable.xml" qualifiers="" type="drawable"/><file name="music_background" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\music_background.xml" qualifiers="" type="drawable"/><file name="music_logo" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\music_logo.xml" qualifiers="" type="drawable"/><file name="pink_theme" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\pink_theme.xml" qualifiers="" type="drawable"/><file name="purple_theme" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\purple_theme.xml" qualifiers="" type="drawable"/><file name="red_theme" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\red_theme.xml" qualifiers="" type="drawable"/><file name="ripple_effect" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ripple_effect.xml" qualifiers="" type="drawable"/><file name="ripple_effect2" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\ripple_effect2.xml" qualifiers="" type="drawable"/><file name="sound" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\sound.gif" qualifiers="" type="drawable"/><file name="splash_image_background" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\splash_image_background.xml" qualifiers="" type="drawable"/><file name="splash_screen_background" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\splash_screen_background.xml" qualifiers="" type="drawable"/><file name="thumb" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\thumb.xml" qualifiers="" type="drawable"/><file name="thumb_drawable" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable\thumb_drawable.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\drawable-v24\ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="activity_home" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\activity_home.xml" qualifiers="" type="layout"/><file name="add_playlist_dialog" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\add_playlist_dialog.xml" qualifiers="" type="layout"/><file name="details_bottomsheet_dialog" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\details_bottomsheet_dialog.xml" qualifiers="" type="layout"/><file name="fragment_favorite" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\fragment_favorite.xml" qualifiers="" type="layout"/><file name="fragment_feedback" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\fragment_feedback.xml" qualifiers="" type="layout"/><file name="fragment_history" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\fragment_history.xml" qualifiers="" type="layout"/><file name="fragment_home" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\fragment_home.xml" qualifiers="" type="layout"/><file name="fragment_player" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\fragment_player.xml" qualifiers="" type="layout"/><file name="fragment_playlist" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\fragment_playlist.xml" qualifiers="" type="layout"/><file name="fragment_playlist_details" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\fragment_playlist_details.xml" qualifiers="" type="layout"/><file name="fragment_selection_playlist" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\fragment_selection_playlist.xml" qualifiers="" type="layout"/><file name="fragment_settings" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\fragment_settings.xml" qualifiers="" type="layout"/><file name="playlist_dialog" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\playlist_dialog.xml" qualifiers="" type="layout"/><file name="playlist_item" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\playlist_item.xml" qualifiers="" type="layout"/><file name="theme_dialog" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\theme_dialog.xml" qualifiers="" type="layout"/><file name="view_item" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\view_item.xml" qualifiers="" type="layout"/><file name="view_item_grid" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\layout\view_item_grid.xml" qualifiers="" type="layout"/><file name="action_menu" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\menu\action_menu.xml" qualifiers="" type="menu"/><file name="delete_menu" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\menu\delete_menu.xml" qualifiers="" type="menu"/><file name="player_menu" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\menu\player_menu.xml" qualifiers="" type="menu"/><file name="popup_menu" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\menu\popup_menu.xml" qualifiers="" type="menu"/><file name="song_menu" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\menu\song_menu.xml" qualifiers="" type="menu"/><file name="sort_menu" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\menu\sort_menu.xml" qualifiers="" type="menu"/><file name="timer_menu" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\menu\timer_menu.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher2" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-anydpi-v26\ic_launcher2.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher2_round" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-anydpi-v26\ic_launcher2_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher2" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-hdpi\ic_launcher2.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher2_round" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-hdpi\ic_launcher2_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher2" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-mdpi\ic_launcher2.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher2_round" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-mdpi\ic_launcher2_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher2" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-xhdpi\ic_launcher2.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher2_round" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-xhdpi\ic_launcher2_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher2" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-xxhdpi\ic_launcher2.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher2_round" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-xxhdpi\ic_launcher2_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher2" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-xxxhdpi\ic_launcher2.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher2_round" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-xxxhdpi\ic_launcher2_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="main_nav_graph" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\navigation\main_nav_graph.xml" qualifiers="" type="navigation"/><file name="dhokha_dhadi" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\raw\dhokha_dhadi.mp3" qualifiers="" type="raw"/><file path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\values\colors.xml" qualifiers=""><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="transparent">#00000000</color><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="red_200">#F8948D</color><color name="red_500">#FC1D0D</color><color name="red_700">#DC000B</color><color name="pink_200">#F574DB</color><color name="pink_500">#EE00CD</color><color name="pink_700">#860495</color><color name="green_200">#C0FCB1</color><color name="green_500">#24EE02</color><color name="green_700">#168F36</color><color name="blue_200">#9ea9fc</color><color name="blue_500">#094CF5</color><color name="blue_700">#0038dd</color></file><file path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">MusicPlayer</string><string name="email">kaushalvasava.app.feedback@gmail.com</string><string name="previous_music">Previous music</string><string name="next_music">Next music</string><string name="play_music">Play music</string><string name="mute_music">Mute music</string><string name="share_music">Share</string><string name="share_app">Share App</string><string name="favorite_music">Favorite music</string><string name="sleep_timer">Sleep timer</string><string name="equalizer">Equalizer</string><string name="history">Recent</string><string name="favourite">Favourites</string><string name="playlist">Playlists</string><string name="add_song">Add Songs</string><string name="remove_all">Remove all</string><string name="mail_subject">Write problem,error,suggestion etc.</string><string name="email_address">Email address(Optional)</string><string name="mail_description">Type your problem in detail</string><string name="submit">Submit</string><string name="theme">Theme</string><string name="feedback">Feedback</string><string name="create_playlist">Create playlist</string><string name="delete">Delete</string><string name="ok">OK</string><string name="sorting_option">Sorting Option</string><string name="view_item">Layout</string><string name="first_timer">15 Minute</string><string name="second_timer">30 Minute</string><string name="third_timer">1 Hour</string><string name="name">Name</string><string name="by_date">Modification date</string><string name="by_size">Size</string><string name="by_time_played">No. of time played</string><string name="search">Search</string><string name="settings">Settings</string><string name="details">Details</string><string name="delete_from_device">Delete from device</string><string name="clear_history">Clear history</string><string name="select_all">Select All</string><string name="file_provider">lahsuak.sangeetmusicplayer.fileprovider</string><string name="sequential">Sequential</string><string name="repeat">Repeat</string><string name="shuffle_all">Shuffle all</string><string name="total_songs">Songs : %d</string><string name="please_grant_permission">Please allow read permission</string><string name="grant">Allow</string></file><file path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\values\themes.xml" qualifiers=""><style name="SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_image_background</item>
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="background">@color/purple_500</item>
+    </style><style name="Fonts">
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="Style.App.circleImageView" parent="">
+        <item name="shapeAppearance">@style/ShapeAppearanceOverlay.App.circleImageView</item>
+    </style><style name="ShapeAppearanceOverlay.App.circleImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10%</item>
+    </style><item name="rippleColor" type="color"/><style name="Theme.MusicPlayer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#306200EE</item>
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/purple_500</item>
+        <item name="colorSecondaryVariant">@color/purple_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorControlHighlight">?attr/colorPrimary</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style><style name="Theme.MusicPlayerRed" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#30FC1D0D</item>
+        <item name="colorPrimary">@color/red_500</item>
+        <item name="colorPrimaryVariant">@color/red_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/red_500</item>
+        <item name="colorSecondaryVariant">@color/red_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorControlHighlight">@color/red_500</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style><style name="Theme.MusicPlayerPink" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#30EE00CD</item>
+        <item name="colorPrimary">@color/pink_500</item>
+        <item name="colorPrimaryVariant">@color/pink_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/pink_500</item>
+        <item name="colorSecondaryVariant">@color/pink_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorControlHighlight">@color/pink_500</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style><style name="Theme.MusicPlayerGreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#3024EE02</item>
+        <item name="colorPrimary">@color/green_500</item>
+        <item name="colorPrimaryVariant">@color/green_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/green_500</item>
+        <item name="colorSecondaryVariant">@color/green_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorControlHighlight">@color/green_500</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style><style name="Theme.MusicPlayerBlue" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#30094CF5</item>
+        <item name="colorPrimary">@color/blue_500</item>
+        <item name="colorPrimaryVariant">@color/blue_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/blue_500</item>
+        <item name="colorSecondaryVariant">@color/blue_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorControlHighlight">@color/blue_500</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style></file><file path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_image_background</item>
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="background">@color/purple_500</item>
+    </style><style name="Fonts">
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="Style.App.circleImageView" parent="">
+        <item name="shapeAppearance">@style/ShapeAppearanceOverlay.App.circleImageView</item>
+    </style><style name="ShapeAppearanceOverlay.App.circleImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10%</item>
+    </style><item name="rippleColor" type="color"/><style name="Theme.MusicPlayer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#503700B3</item>
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/purple_200</item>
+        <item name="colorSecondaryVariant">@color/purple_200</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorControlHighlight">@color/purple_200</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style><style name="Theme.MusicPlayerRed" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#50DC000B</item>
+        <item name="colorPrimary">@color/red_200</item>
+        <item name="colorPrimaryVariant">@color/red_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/red_200</item>
+        <item name="colorSecondaryVariant">@color/red_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorControlHighlight">@color/red_500</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style><style name="Theme.MusicPlayerPink" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#50860495</item>
+        <item name="colorPrimary">@color/pink_200</item>
+        <item name="colorPrimaryVariant">@color/pink_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/pink_200</item>
+        <item name="colorSecondaryVariant">@color/pink_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorControlHighlight">@color/pink_500</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style><style name="Theme.MusicPlayerGreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#50168F36</item>
+        <item name="colorPrimary">@color/green_200</item>
+        <item name="colorPrimaryVariant">@color/green_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/green_200</item>
+        <item name="colorSecondaryVariant">@color/green_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorControlHighlight">@color/green_500</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style><style name="Theme.MusicPlayerBlue" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#500038dd</item>
+        <item name="colorPrimary">@color/blue_200</item>
+        <item name="colorPrimaryVariant">@color/blue_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/blue_200</item>
+        <item name="colorSecondaryVariant">@color/blue_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorControlHighlight">@color/blue_200</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style></file><file name="file_path" path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\main\res\xml\file_path.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Jerry\StudioProjects\Sangeet_MusicPlayer\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>

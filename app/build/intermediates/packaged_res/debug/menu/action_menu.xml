@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_selectAll"
+        android:icon="@drawable/ic_select_all_off"
+        android:title="@string/select_all"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_share"
+        android:icon="@drawable/ic_share"
+        android:title="@string/share_music"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_delete"
+        android:title="@string/delete_from_device"
+        app:showAsAction="ifRoom" />
+</menu>

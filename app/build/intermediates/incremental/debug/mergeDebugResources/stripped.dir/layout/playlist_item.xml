@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="?android:attr/selectableItemBackground"
+    android:layout_margin="5dp">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/songImage"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/image_background"
+        app:layout_constraintBottom_toTopOf="@id/playListName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.App.circleImageView" />
+
+    <TextView
+        android:id="@+id/playListName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ellipsize="marquee"
+        android:fadingEdge="horizontal"
+        android:padding="3dp"
+        android:singleLine="true"
+        tools:text="Playlist Name"
+        android:textColor="?attr/colorOnSecondary"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toStartOf="@id/deletePlaylist"
+        app:layout_constraintStart_toStartOf="@id/songImage"
+        app:layout_constraintTop_toBottomOf="@id/songImage" />
+
+    <TextView
+        android:id="@+id/creatorName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="5dp"
+        android:ellipsize="marquee"
+        android:fadingEdge="horizontal"
+        android:padding="3dp"
+        android:singleLine="true"
+        tools:text="Created By"
+        android:textColor="?attr/colorOnSecondary"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/deletePlaylist"
+        app:layout_constraintStart_toStartOf="@id/songImage"
+        app:layout_constraintTop_toBottomOf="@id/playListName" />
+
+    <ImageView
+        android:id="@+id/deletePlaylist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/delete"
+        android:background="@drawable/ripple_effect2"
+        android:src="@drawable/ic_delete"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/songImage"
+        app:layout_constraintTop_toBottomOf="@id/songImage"
+        app:tint="?attr/colorOnSecondary" />
+</androidx.constraintlayout.widget.ConstraintLayout>

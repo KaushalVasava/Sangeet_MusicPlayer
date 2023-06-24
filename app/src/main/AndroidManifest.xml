@@ -3,15 +3,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.lahsuak.sangeetmusicplayer">
 
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
     <uses-permission
         android:name="android.permission.WRITE_EXTERNAL_STORAGE"
         tools:ignore="ScopedStorage" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 
     <application
-        android:name=".util.App"
+        android:name=".util.MusicApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher2"
         android:label="@string/app_name"
@@ -21,7 +25,8 @@
         android:theme="@style/SplashScreen">
 
         <activity
-            android:name=".activity.HomeActivity"
+            android:name=".ui.activity.HomeActivity"
+            android:exported="true"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustResize"
             tools:ignore="LockedOrientationActivity">
@@ -30,21 +35,23 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <receiver
-            android:name=".receiver.MusicNotificationReceiver"
-            android:enabled="true">
+            android:name=".util.receiver.MusicNotificationReceiver"
+            android:enabled="true"
+            android:exported="true">
 
             <intent-filter>
-                <action android:name="lahsuak.sangeetmusicplayer.PLAY" />
-                <action android:name="lahsuak.sangeetmusicplayer.PREV" />
-                <action android:name="lahsuak.sangeetmusicplayer.NEXT" />
-                <action android:name="lahsuak.sangeetmusicplayer.FAVORITE" />
-                <action android:name="lahsuak.sangeetmusicplayer.SHUFFLE_OR_REPEAT" />
+                <action android:name="PLAY" />
+                <action android:name="PREV" />
+                <action android:name="NEXT" />
+                <action android:name="FAVORITE" />
+                <action android:name="SHUFFLE_OR_REPEAT" />
             </intent-filter>
         </receiver>
 
         <service
-            android:name=".service.SangeetMusicService"
+            android:name=".util.service.MusicService"
             android:enabled="true" />
 
         <provider

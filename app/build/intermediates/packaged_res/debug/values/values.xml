@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="blue_200">#9ea9fc</color>
+    <color name="blue_500">#094CF5</color>
+    <color name="blue_700">#0038dd</color>
+    <color name="green_200">#C0FCB1</color>
+    <color name="green_500">#24EE02</color>
+    <color name="green_700">#168F36</color>
+    <color name="pink_200">#F574DB</color>
+    <color name="pink_500">#EE00CD</color>
+    <color name="pink_700">#860495</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red_200">#F8948D</color>
+    <color name="red_500">#FC1D0D</color>
+    <color name="red_700">#DC000B</color>
+    <item name="rippleColor" type="color"/>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_song">Add Songs</string>
+    <string name="app_name">MusicPlayer</string>
+    <string name="by_date">Modification date</string>
+    <string name="by_size">Size</string>
+    <string name="by_time_played">No. of time played</string>
+    <string name="clear_history">Clear history</string>
+    <string name="create_playlist">Create playlist</string>
+    <string name="delete">Delete</string>
+    <string name="delete_from_device">Delete from device</string>
+    <string name="details">Details</string>
+    <string name="email">kaushalvasava.app.feedback@gmail.com</string>
+    <string name="email_address">Email address(Optional)</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="favorite_music">Favorite music</string>
+    <string name="favourite">Favourites</string>
+    <string name="feedback">Feedback</string>
+    <string name="file_provider">lahsuak.sangeetmusicplayer.fileprovider</string>
+    <string name="first_timer">15 Minute</string>
+    <string name="grant">Allow</string>
+    <string name="history">Recent</string>
+    <string name="mail_description">Type your problem in detail</string>
+    <string name="mail_subject">Write problem,error,suggestion etc.</string>
+    <string name="mute_music">Mute music</string>
+    <string name="name">Name</string>
+    <string name="next_music">Next music</string>
+    <string name="ok">OK</string>
+    <string name="play_music">Play music</string>
+    <string name="playlist">Playlists</string>
+    <string name="please_grant_permission">Please allow read permission</string>
+    <string name="previous_music">Previous music</string>
+    <string name="remove_all">Remove all</string>
+    <string name="repeat">Repeat</string>
+    <string name="search">Search</string>
+    <string name="second_timer">30 Minute</string>
+    <string name="select_all">Select All</string>
+    <string name="sequential">Sequential</string>
+    <string name="settings">Settings</string>
+    <string name="share_app">Share App</string>
+    <string name="share_music">Share</string>
+    <string name="shuffle_all">Shuffle all</string>
+    <string name="sleep_timer">Sleep timer</string>
+    <string name="sorting_option">Sorting Option</string>
+    <string name="submit">Submit</string>
+    <string name="theme">Theme</string>
+    <string name="third_timer">1 Hour</string>
+    <string name="total_songs">Songs : %d</string>
+    <string name="view_item">Layout</string>
+    <style name="Fonts">
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.circleImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10%</item>
+    </style>
+    <style name="SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_image_background</item>
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="background">@color/purple_500</item>
+    </style>
+    <style name="Style.App.circleImageView" parent="">
+        <item name="shapeAppearance">@style/ShapeAppearanceOverlay.App.circleImageView</item>
+    </style>
+    <style name="Theme.MusicPlayer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#306200EE</item>
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/purple_500</item>
+        <item name="colorSecondaryVariant">@color/purple_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorControlHighlight">?attr/colorPrimary</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style>
+    <style name="Theme.MusicPlayerBlue" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#30094CF5</item>
+        <item name="colorPrimary">@color/blue_500</item>
+        <item name="colorPrimaryVariant">@color/blue_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/blue_500</item>
+        <item name="colorSecondaryVariant">@color/blue_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorControlHighlight">@color/blue_500</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style>
+    <style name="Theme.MusicPlayerGreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#3024EE02</item>
+        <item name="colorPrimary">@color/green_500</item>
+        <item name="colorPrimaryVariant">@color/green_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/green_500</item>
+        <item name="colorSecondaryVariant">@color/green_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorControlHighlight">@color/green_500</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style>
+    <style name="Theme.MusicPlayerPink" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#30EE00CD</item>
+        <item name="colorPrimary">@color/pink_500</item>
+        <item name="colorPrimaryVariant">@color/pink_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/pink_500</item>
+        <item name="colorSecondaryVariant">@color/pink_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorControlHighlight">@color/pink_500</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style>
+    <style name="Theme.MusicPlayerRed" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="rippleColor">#30FC1D0D</item>
+        <item name="colorPrimary">@color/red_500</item>
+        <item name="colorPrimaryVariant">@color/red_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/red_500</item>
+        <item name="colorSecondaryVariant">@color/red_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorControlHighlight">@color/red_500</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorOnPrimary</item>
+        
+    </style>
+</resources>

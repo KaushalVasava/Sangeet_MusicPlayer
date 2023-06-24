@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/firstTimer"
+        android:title="@string/first_timer" />
+    <item
+        android:id="@+id/secondTimer"
+        android:title="@string/second_timer"/>
+    <item
+        android:id="@+id/thirdTimer"
+        android:title="@string/third_timer"/>
+</menu>

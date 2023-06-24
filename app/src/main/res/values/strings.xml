@@ -41,4 +41,10 @@
     <string name="clear_history">Clear history</string>
     <string name="select_all">Select All</string>
     <string name="file_provider">lahsuak.sangeetmusicplayer.fileprovider</string>
+    <string name="sequential">Sequential</string>
+    <string name="repeat">Repeat</string>
+    <string name="shuffle_all">Shuffle all</string>
+    <string name="total_songs">Songs : %d</string>
+    <string name="please_grant_permission">Please allow read permission</string>
+    <string name="grant">Allow</string>
 </resources>

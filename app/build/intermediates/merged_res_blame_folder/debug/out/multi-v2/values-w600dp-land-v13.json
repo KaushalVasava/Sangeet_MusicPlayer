@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-49:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jerry\\.gradle\\caches\\transforms-3\\ba899eb94f0ae5407450718fc232725e\\transformed\\material-1.9.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_add.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_repeat_one.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_repeat_one.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/menu_player_menu.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/menu/player_menu.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_fragment_playlist.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_playlist.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_arrow_down.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_arrow_down.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_feedback.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_feedback.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-pngs-47:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ripple_effect.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ripple_effect.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_splash_image_background.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/splash_image_background.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/anim_slide_in_left.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_play_notification.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_play_notification.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_fragment_selection_playlist.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_selection_playlist.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_fragment_home.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/menu_sort_menu.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/menu/sort_menu.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/navigation_main_nav_graph.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/navigation/main_nav_graph.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_purple_theme.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/purple_theme.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_pink_theme.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/pink_theme.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_fragment_feedback.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_feedback.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_equalizer.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_equalizer.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/menu_delete_menu.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/menu/delete_menu.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_delete.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-xxhdpi_ic_launcher2_round.png.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-xxhdpi/ic_launcher2_round.png"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_recent_history.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_recent_history.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_next.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_next.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_select_all.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_select_all.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_volume_up.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_volume_up.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/anim_fade_out.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher2.png.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-xxxhdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_view_item_grid.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/view_item_grid.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_view_item.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/view_item.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_play.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_timer.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_timer.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_done.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_done.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_grid_view.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_grid_view.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_more.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_more.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/anim_slide_out_right.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/anim_slide_in_right.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/menu_action_menu.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/menu/action_menu.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_launcher2_background.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_launcher2_background.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_sound.gif.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/sound.gif"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_line.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/line.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-mdpi_ic_launcher2.png.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-mdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_settings.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_blue_theme.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/blue_theme.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/anim_fade_in.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_search.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_fragment_playlist_details.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_playlist_details.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_select_all_off.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_select_all_off.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_details_bottomsheet_dialog.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/details_bottomsheet_dialog.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_thumb_drawable.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/thumb_drawable.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_previous.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_previous.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_green_theme.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/green_theme.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_thumb.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/thumb.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-xxhdpi_ic_launcher2.png.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-xxhdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/menu_popup_menu.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/menu/popup_menu.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_line_drawable.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/line_drawable.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_music_background.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/music_background.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_favorite.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-xhdpi_ic_launcher2_round.png.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-xhdpi/ic_launcher2_round.png"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-mdpi_ic_launcher2_round.png.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-mdpi/ic_launcher2_round.png"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_fragment_history.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_favorite_empty.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_favorite_empty.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_activity_home.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/menu_song_menu.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/menu/song_menu.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_pause.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_image_background.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/image_background.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher2.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-anydpi-v26/ic_launcher2.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_pause_notification.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_pause_notification.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_playlist_item.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/playlist_item.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_theme.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_theme.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_fragment_player.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_player.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_shuffle.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_shuffle.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_music.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_music.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/raw_dhokha_dhadi.mp3.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/raw/dhokha_dhadi.mp3"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_sort.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_sort.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_share.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_volume_mute.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_volume_mute.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_repeat.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_repeat.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/anim_slide_out_left.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_red_theme.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/red_theme.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_fragment_settings.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_splash_screen_background.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/splash_screen_background.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_launcher2_foreground.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_launcher2_foreground.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_fragment_favorite.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_music_logo.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/music_logo.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-hdpi_ic_launcher2_round.png.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-hdpi/ic_launcher2_round.png"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-hdpi_ic_launcher2.png.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-hdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher2_round.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-anydpi-v26/ic_launcher2_round.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_playlist.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_playlist.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ic_list_view.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ic_list_view.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_theme_dialog.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/theme_dialog.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/drawable_ripple_effect2.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/drawable/ripple_effect2.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/menu_timer_menu.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/menu/timer_menu.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher2_round.png.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-xxxhdpi/ic_launcher2_round.png"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/xml_file_path.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/xml/file_path.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_add_playlist_dialog.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/add_playlist_dialog.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/layout_playlist_dialog.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/playlist_dialog.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/anim_top_bottom.xml.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/anim/top_bottom.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-merged_res-51:/mipmap-xhdpi_ic_launcher2.png.flat",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/mipmap-xhdpi/ic_launcher2.png"
+    }
+]
