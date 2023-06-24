@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/view_item.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/view_item.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/fragment_feedback.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_feedback.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/playlist_dialog.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/playlist_dialog.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/fragment_selection_playlist.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_selection_playlist.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/add_playlist_dialog.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/add_playlist_dialog.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/activity_home.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/fragment_history.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/fragment_home.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/fragment_playlist_details.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_playlist_details.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/playlist_item.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/playlist_item.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/details_bottomsheet_dialog.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/details_bottomsheet_dialog.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/fragment_settings.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/fragment_player.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_player.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/view_item_grid.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/view_item_grid.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/fragment_playlist.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_playlist.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/fragment_favorite.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "com.lahsuak.sangeetmusicplayer.app-mergeDebugResources-50:/layout/theme_dialog.xml",
+        "source": "com.lahsuak.sangeetmusicplayer.app-main-53:/layout/theme_dialog.xml"
+    }
+]
