@@ -12,7 +12,7 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import android.view.ViewGroup
 import android.widget.*
 import android.widget.GridView
-import com.karumi.dexter.BuildConfig
+import com.lahsuak.sangeetmusicplayer.BuildConfig
 import com.lahsuak.sangeetmusicplayer.R
 import com.lahsuak.sangeetmusicplayer.databinding.FragmentSettingsBinding
 
